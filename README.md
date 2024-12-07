@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common TypeScript error: type 'Date' is not assignable to type 'string'.  The `bug.ts` file showcases the error, while `bugSolution.ts` provides the corrected code.
